@@ -12,7 +12,7 @@ The site presents a full-stack developer profile through animated sections, a se
 - Selected projects gallery with Professional and Personal filters
 - Case study drawer for detailed project overviews, contributions, outcomes, images, and links
 - Interactive terminal console with typed commands such as `help`, `projects`, `about`, `tech_stack`, `contact`, `resume`, and `clear`
-- Resume download support from `public/resume.pdf`
+- Resume download support from `public/ZinMinLatt_CV.pdf`
 - Lightweight global state management with Zustand
 - Production build setup with Vite
 
@@ -32,7 +32,7 @@ The site presents a full-stack developer profile through animated sections, a se
 developer-portfolio/
 ├── public/
 │   ├── profile_porfolio.jpg
-│   ├── resume.pdf
+│   ├── ZinMinLatt_CV.pdf
 │   └── project screenshots
 ├── src/
 │   ├── components/
@@ -186,7 +186,7 @@ public/
 Important assets:
 
 - `profile_porfolio.jpg` - hero profile image
-- `resume.pdf` - downloadable resume
+- `ZinMinLatt_CV.pdf` - downloadable resume
 - project screenshots used by case studies
 
 ## Deployment

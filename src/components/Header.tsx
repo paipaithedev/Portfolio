@@ -93,7 +93,7 @@ export default function Header() {
             <span>CONTACT ME</span>
           </a>
           <a
-            href="/resume.pdf"
+            href="/ZinMinLatt_CV.pdf"
             download="Zin_Min_Latt_CV.pdf"
             onClick={() => executeCommand('navigation --target resume')}
             className="inline-flex items-center space-x-2 bg-transparent border border-white/10 hover:border-white/20 hover:bg-white/5 transition-all text-white px-3.5 py-1.5 rounded-[2px] font-mono text-[11px]"
@@ -151,7 +151,7 @@ export default function Header() {
               <span>CONTACT</span>
             </a>
             <a
-              href="/resume.pdf"
+              href="/ZinMinLatt_CV.pdf"
               download="Zin_Min_Latt_CV.pdf"
               onClick={() => executeCommand('navigation --target resume')}
               className="w-full text-center inline-flex items-center justify-center space-x-2 bg-transparent border border-white/10 py-2.5 rounded-[2px] text-white hover:bg-white/5 transition-colors text-xs"
