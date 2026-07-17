@@ -134,8 +134,8 @@ const projectsData: CaseStudy[] = [
       }
     ],
     outcome: 'Delivered a lightning-fast, highly responsive analytics application that successfully bridges the gap between financial tracking and operational task management.',
-    githubUrl: 'https://github.com/your-username/finance-dashboard', 
-    liveUrl: 'https://your-finance-app.vercel.app',
+    githubUrl: 'https://github.com/paipaithedev/Finance_Personal_Console', 
+    liveUrl: 'https://finance-personal-console.vercel.app/',
     images: [
       '/fpd_desk.png',
       '/fpd_auth.png',
