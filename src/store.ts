@@ -135,7 +135,7 @@ export const usePortfolioStore = create<PortfolioState>((set, get) => ({
           });
           try {
             const link = document.createElement('a');
-            link.href = '/resume.pdf';
+            link.href = '/ZinMinLatt_CV.pdf';
             link.download = 'Zin_Min_Latt_CV.pdf';
             document.body.appendChild(link);
             link.click();
